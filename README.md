@@ -1,8 +1,7 @@
 node-nexmo
 =====
 
-
-https://www.nexmo.com wrapper for [node-nexmo](https://github.com/Nexmo/nexmo-node/tree/v2.0.2)
+https://www.nexmo.com wrapper for [nexmo](https://github.com/Nexmo/nexmo-node/tree/v2.0.2)
 
 ## Usage
 ```javascript
@@ -20,6 +19,8 @@ nexmo.send({
 }, function (err, result) {
   console.log('result err=%s, result', err, result);
 });
+
+```
 
 ## License
 MIT
