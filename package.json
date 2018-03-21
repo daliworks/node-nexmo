@@ -1,0 +1,27 @@
+{
+  "name": "node-nexmo",
+  "description": "node-nexmo",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daliworks",
+    "email": "dev@daliworks.net"
+  },
+  "keywords": [
+    "nexmo",
+    "sms",
+    "text",
+    "mobile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daliworks/node-nexmo.git"
+  },
+  "dependencies": {
+    "lodash": "3.10.1",
+    "nexmo": "2.0.2"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 4"
+  }
+}
